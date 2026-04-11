@@ -10,10 +10,10 @@ import Testimonial from '../components/Testimonial/Testimonial';
 import Footer from '../components/Footer/Footer';
 import FloatingWhatsApp from '../components/FloatingWhatsApp/FloatingWhatsApp';
 
-import landmarkImg from '../assets/tugu-jendral-soedirman-purbalingga.webp';
+import landmarkImg from '../assets/foto-jamaah-big-travel-pwt.jpg';
 
 const region = 'Purwokerto';
-const bgPosition = 'center 10%';
+const bgPosition = 'center';
 
 const Landing = () => {
   useEffect(() => {
